@@ -1,0 +1,16 @@
+warmińsko-mazurskie: 27
+opolskie: 64
+mazowieckie: 287
+dolnośląskie: 105
+świętokrzyskie: 45
+małopolskie: 307
+lubelskie: 163
+podkarpackie: 108
+łódzkie: 91
+kujawsko-pomorskie: 69
+śląskie: 261
+zachodniopomorskie: 68
+wielkopolskie: 147
+podlaskie: 41
+pomorskie: 130
+lubuskie: 37

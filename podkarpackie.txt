@@ -1,0 +1,6 @@
+Statystyka ilościowa dla objawów w woj. podkarpackim: 
+Zaczerwienienie i bolesność : 94
+Pozostałe : 5
+Gorączka : 7
+Wymioty : 1
+Drgawki : 1

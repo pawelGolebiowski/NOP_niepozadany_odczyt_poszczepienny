@@ -1,0 +1,4 @@
+Ilość NOPów: 1950
+Ilość kobiet: 1680
+Ilość mężczyzn: 266
+Liczba osób z gorączką w woj. pomorskim: 7
