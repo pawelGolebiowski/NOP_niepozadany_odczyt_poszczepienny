@@ -54,7 +54,7 @@ if not os.path.exists('zestawienie.txt'):
             file.write(v + ": " + str(count) + "\n")
 
 # punkt nr 5
-# nr indeksu 48908, dwie ostatnie cyfry indexu to 08, tak więc 8 % 16 = 8, a ósmym województwem na liście jest podkarpackie ;-)
+# nr indeksu xxx08, dwie ostatnie cyfry indexu to 08, tak więc 8 % 16 = 8, a ósmym województwem na liście jest podkarpackie ;-)
 sympotms_in_podkarpackie = []
 for nop in nop_list:
     if nop.voivodeship == 'podkarpackie':
